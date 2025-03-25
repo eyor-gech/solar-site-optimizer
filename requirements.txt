@@ -1,0 +1,1 @@
+pip install pandas streamlit plotly geopandas folium matplotlib scipy statsmodels scikit-learn
