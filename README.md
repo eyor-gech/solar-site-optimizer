@@ -9,7 +9,7 @@ The analysis is part of a project with **MoonLight Energy Solutions** aimed at o
 - **Best Location for Solar Installation**: **Benin-Malanville** stands out as the top location for solar installation due to its high GHI levels and favorable environmental conditions.
 - **Impact of Cleaning on Sensor Readings**: Regular cleaning significantly boosts solar panel efficiency, particularly in **Benin-Malanville** and **Togo-Dapaong**.
 - **Environmental Factors**: High temperatures and low humidity positively correlate with better solar energy performance, especially in **Benin-Malanville**.
-```
+  
 ## Project Structure
 The project is structured as follows:
 
